@@ -6,6 +6,6 @@
   "version": "1.2.1",
   "version_code": 10201,
   "firmware_url": "https://huang3517.github.io/Remote-ID-firmware/rid-lcd/hw1/firmware.bin",
-  "firmware_size": 1246320,
-  "firmware_sha256": "931231253DFEA52DD47A03EFBDEB029E75E162FE4065A0691D886D831531087C"
+  "firmware_size": 1293392,
+  "firmware_sha256": "363D5DF0777F6F4582A49D84F8E73FFCCD4FDF6377A3369219D30A9D8D729FAE"
 }
