@@ -1,7 +1,7 @@
 {
   "manifest_version": 1,
   "product": "RID_COLLECTOR",
-  "hardware": "HW2",
+  "hardware": "HW1",
   "project": "esp32_remoteid_collector",
   "version": "1.2.1",
   "version_code": 10201,
