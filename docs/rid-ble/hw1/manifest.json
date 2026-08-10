@@ -1,0 +1,11 @@
+{
+  "manifest_version": 1,
+  "product": "RID_COLLECTOR",
+  "hardware": "HW2",
+  "project": "esp32_remoteid_collector",
+  "version": "1.2.1",
+  "version_code": 10201,
+  "firmware_url": "https://huang3517.github.io/Remote-ID-firmware/rid-ble/hw2/firmware.bin",
+  "firmware_size": 1293312,
+  "firmware_sha256": "aa849de69d58b55b3cdb4ab5b3faff1bb1759b51394b61faeb061c8409584ee3"
+}
