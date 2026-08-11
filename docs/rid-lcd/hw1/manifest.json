@@ -3,7 +3,7 @@
   "product": "RID_LCD",
   "hardware": "HW1",
   "project": "esp32_remoteid_lcd",
-  "version": "1.2.1",
+  "version": "1.0.0",
   "version_code": 10201,
   "firmware_url": "https://huang3517.github.io/Remote-ID-firmware/rid-lcd/hw1/firmware.bin",
   "firmware_size": 1387344,
