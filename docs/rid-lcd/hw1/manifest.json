@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "product": "RID_COLLECTOR",
+  "product": "RID_LCD",
   "hardware": "HW1",
   "project": "esp32_remoteid_collector",
   "version": "1.2.1",
